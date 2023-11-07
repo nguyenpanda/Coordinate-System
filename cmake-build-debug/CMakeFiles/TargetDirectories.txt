@@ -1,0 +1,3 @@
+/Users/hatuongnguyen/Desktop/Coordinate/cmake-build-debug/CMakeFiles/Coordinate.dir
+/Users/hatuongnguyen/Desktop/Coordinate/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/hatuongnguyen/Desktop/Coordinate/cmake-build-debug/CMakeFiles/rebuild_cache.dir
